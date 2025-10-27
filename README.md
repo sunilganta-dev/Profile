@@ -25,7 +25,7 @@ AI-Driven Software • LLM Applications • Cloud-Native Systems • Scalable Ar
 ## Tech Toolbox
 
 **Languages:**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -70,11 +70,19 @@ AI-Driven Software • LLM Applications • Cloud-Native Systems • Scalable Ar
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![VectorDBs](https://img.shields.io/badge/VectorDBs-Pinecone%2C%20Weaviate%2C%20FAISS-blue?style=flat)
 
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![Triton](https://img.shields.io/badge/Triton-0D1117?style=flat&logo=triton&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat&logo=llvm&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-1E1E1E?style=flat&logo=github&logoColor=white)
+![OpenCL](https://img.shields.io/badge/OpenCL-ED1C24?style=flat&logo=opencl&logoColor=white)
+![HIP](https://img.shields.io/badge/HIP-ED1C24?style=flat&logo=amd&logoColor=white)
+
+
 ---
 
 ## Experience
 
-- 👨‍💻 **Software Engineer Intern** – *Chaya Development LLC* (Jan 2025 – May 2025)  
+- 👨‍💻 **Software & AI Engineer** – *Chaya Development LLC* (Jan 2025 – May 2025)  
  
 - 👨‍💻 **Senior Software Engineer** – *Ryan India Tax Services* (Dec 2020 – Sep 2023)  
  
